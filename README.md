@@ -1,11 +1,6 @@
 # Ronaldo's Penalty Habits-What Goalkeeper's Should Know
 Video-based analysis of Cristiano Ronaldo’s 173 penalties to determine the best goalkeeper save strategy.
 
-🎯 Project Title: Ronaldo's Penalty Habits What Goalkeepers Should Know
-
-🧠 Objective
-To determine the best possible strategy for a goalkeeper to save a penalty taken by Cristiano Ronaldo, through detailed video analysis of his 173 penalty shots.
-
 🧩 Methodology
 This project combines data analytics and video-based tactical study to decode Ronaldo’s penalty-taking tendencies.
 Steps:
@@ -27,6 +22,11 @@ o	Body Language Analysis – Run-up and body positioning cues.
 •	Final Recommendations: Optimal save strategy for goalkeepers against Ronaldo.
 🖇️ File: Ronaldo_Penalty_Analysis_Presentation.pptx
 (Includes embedded videos and visual data analysis. Please open in PowerPoint or Google Slides for full functionality.)
+
+🧰 Tools Used
+- Kinovea – For detailed frame-by-frame video analysis, angle tracking, and body posture marking.  
+- Google Sheets – For logging penalty data points, performing statistical analysis, and creating visual graphs.  
+- Microsoft PowerPoint – For compiling visuals, graphs, and embedded video presentations.
 
 🏁 Outcome
 Through statistical and visual evaluation, this study identifies placement zones and timing cues most likely to lead to a successful save against Cristiano Ronaldo.
