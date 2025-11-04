@@ -15,13 +15,15 @@ All raw data points and analysis inputs are available here:
 
 📽️ Presentation Details
 The presentation file includes:
-•	Visuals: Graphs on placement success, miss % by shot type, and goalkeeper anticipation rate.
-•	Videos:
-o	Penalty Miss Pattern Analysis – Angles, distances, and keeper reactions.
-o	Body Language Analysis – Run-up and body positioning cues.
-•	Final Recommendations: Optimal save strategy for goalkeepers against Ronaldo.
-🖇️ File: Ronaldo_Penalty_Analysis_Presentation.pptx
-(Includes embedded videos and visual data analysis. Please open in PowerPoint or Google Slides for full functionality.)
+• Visuals: Graphs on placement success, miss % by shot type, and goalkeeper anticipation rate.
+• Videos:
+ o Penalty Miss Pattern Analysis – Angles, distances, and keeper reactions.
+ o Body Language Analysis – Run-up and body positioning cues.
+• Final Recommendations: Optimal save strategy for goalkeepers against Ronaldo.
+
+📄 View the full presentation here:
+👉 [Ronaldo Penalty Analysis – Google Slides](https://docs.google.com/presentation/d/10R2Zn8WItxvsLwnmBZlDBHZKyqM6zItIWg0ZWOwQ1ak/edit?usp=sharing)
+
 
 🧰 Tools Used
 - Kinovea – For detailed frame-by-frame video analysis, angle tracking, and body posture marking.  
